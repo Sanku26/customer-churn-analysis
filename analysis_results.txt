@@ -1,0 +1,9 @@
+Customer Churn Analysis – Key Findings
+    * Total customers analyzed: 7043
+    * Customers who stayed: 5174
+    * Customers who churned: 1869
+
+Insights:
+    1. Customers with month-to-month contracts churn more.
+    2. Customers with higher monthly charges are more likely to leave.
+    3. Customers with short tenure tend to churn faster.
